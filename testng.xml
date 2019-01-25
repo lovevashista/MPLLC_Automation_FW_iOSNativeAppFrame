@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<listeners>
+		<listener class-name="MobileProgrammingLLC.Tests.Listeners"></listener>
+		<listener class-name="MobileProgrammingLLC.Resources.ExtentReport"></listener>
+	</listeners>
+	<test name="Test1">
+	  <classes>
+	  	<class name="MobileProgrammingLLC.Tests.UiCatalog_ValidatingActionSheets"></class>
+	  	<class name="MobileProgrammingLLC.Tests.UiCatalog_ManagingAlertViews"></class> 
+	  	<class name="MobileProgrammingLLC.Tests.UiCatalog_HandlingDatePicker"></class>
+	  	<class name="MobileProgrammingLLC.Tests.UiCatalog_ComparingSteppers"></class>
+	  </classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="257678" started-at="2019-01-24T18:36:56Z" finished-at="2019-01-24T18:41:14Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="257678" started-at="2019-01-24T18:36:56Z" finished-at="2019-01-24T18:41:14Z">
+      <class name="MobileProgrammingLLC.Tests.UiCatalog_HandlingDatePicker">
+        <test-method status="PASS" signature="initConfigs()[pri:0, instance:MobileProgrammingLLC.Tests.UiCatalog_HandlingDatePicker@1ab3a8c8]" name="initConfigs" is-config="true" duration-ms="14148" started-at="2019-01-25T00:10:22Z" finished-at="2019-01-25T00:10:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initConfigs -->
+        <test-method status="PASS" signature="handleDatePicker()[pri:0, instance:MobileProgrammingLLC.Tests.UiCatalog_HandlingDatePicker@1ab3a8c8]" name="handleDatePicker" duration-ms="11756" started-at="2019-01-25T00:10:36Z" finished-at="2019-01-25T00:10:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- handleDatePicker -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:MobileProgrammingLLC.Tests.UiCatalog_HandlingDatePicker@1ab3a8c8]" name="tearDown" is-config="true" duration-ms="320" started-at="2019-01-25T00:10:48Z" finished-at="2019-01-25T00:10:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MobileProgrammingLLC.Tests.UiCatalog_HandlingDatePicker -->
+      <class name="MobileProgrammingLLC.Tests.UiCatalog_ComparingSteppers">
+        <test-method status="PASS" signature="initConfigs()[pri:0, instance:MobileProgrammingLLC.Tests.UiCatalog_ComparingSteppers@43195e57]" name="initConfigs" is-config="true" duration-ms="14395" started-at="2019-01-25T00:10:48Z" finished-at="2019-01-25T00:11:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initConfigs -->
+        <test-method status="PASS" signature="compareSteppers()[pri:0, instance:MobileProgrammingLLC.Tests.UiCatalog_ComparingSteppers@43195e57]" name="compareSteppers" duration-ms="11116" started-at="2019-01-25T00:11:02Z" finished-at="2019-01-25T00:11:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareSteppers -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:MobileProgrammingLLC.Tests.UiCatalog_ComparingSteppers@43195e57]" name="tearDown" is-config="true" duration-ms="355" started-at="2019-01-25T00:11:13Z" finished-at="2019-01-25T00:11:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MobileProgrammingLLC.Tests.UiCatalog_ComparingSteppers -->
+      <class name="MobileProgrammingLLC.Tests.UiCatalog_ManagingAlertViews">
+        <test-method status="PASS" signature="initConfigs()[pri:0, instance:MobileProgrammingLLC.Tests.UiCatalog_ManagingAlertViews@6973b51b]" name="initConfigs" is-config="true" duration-ms="14754" started-at="2019-01-25T00:09:58Z" finished-at="2019-01-25T00:10:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initConfigs -->
+        <test-method status="PASS" signature="manageAlertViews()[pri:0, instance:MobileProgrammingLLC.Tests.UiCatalog_ManagingAlertViews@6973b51b]" name="manageAlertViews" duration-ms="8849" started-at="2019-01-25T00:10:12Z" finished-at="2019-01-25T00:10:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- manageAlertViews -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:MobileProgrammingLLC.Tests.UiCatalog_ManagingAlertViews@6973b51b]" name="tearDown" is-config="true" duration-ms="387" started-at="2019-01-25T00:10:21Z" finished-at="2019-01-25T00:10:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MobileProgrammingLLC.Tests.UiCatalog_ManagingAlertViews -->
+      <class name="MobileProgrammingLLC.Tests.UiCatalog_ValidatingActionSheets">
+        <test-method status="PASS" signature="initConfigs()[pri:0, instance:MobileProgrammingLLC.Tests.UiCatalog_ValidatingActionSheets@1afd44cb]" name="initConfigs" is-config="true" duration-ms="175122" started-at="2019-01-25T00:06:56Z" finished-at="2019-01-25T00:09:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initConfigs -->
+        <test-method status="PASS" signature="validateActionSheets()[pri:0, instance:MobileProgrammingLLC.Tests.UiCatalog_ValidatingActionSheets@1afd44cb]" name="validateActionSheets" duration-ms="6066" started-at="2019-01-25T00:09:51Z" finished-at="2019-01-25T00:09:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateActionSheets -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:MobileProgrammingLLC.Tests.UiCatalog_ValidatingActionSheets@1afd44cb]" name="tearDown" is-config="true" duration-ms="358" started-at="2019-01-25T00:09:57Z" finished-at="2019-01-25T00:09:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MobileProgrammingLLC.Tests.UiCatalog_ValidatingActionSheets -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
